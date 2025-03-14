@@ -34,12 +34,12 @@
 
 #### Mobile
 
-  <img loading="lazy" src="./img/screenshot-mobile.png" style="height: 500px"/>
+  <img loading="lazy" src="./src/screenshot-mobile.png" style="height: 500px"/>
   
   #### Tablet
-  <img loading="lazy" src="./img/screenshot-tablet.png" style="width: 100%" />
+  <img loading="lazy" src="./src/screenshot-tablet.png" style="width: 100%" />
   
   #### Desktop
-  <img loading="lazy" src="./img/screenshot-desktop.png" style="width: 100%" />
+  <img loading="lazy" src="./src/screenshot-desktop.png" style="width: 100%" />
 
 </div>
